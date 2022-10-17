@@ -1,2 +1,2 @@
 # Ringbuffer
-Simple Implementation of a Ringbuffer in C++
+Simple header-only implementation of a ringbuffer / circular buffer in C++
